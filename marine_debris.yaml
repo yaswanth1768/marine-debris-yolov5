@@ -1,0 +1,7 @@
+train: ../marine_debris/train/images
+val: ../marine_debris/val/images
+test: ../marine_debris/test/images
+
+nc: 5
+names: ['can', 'foam', 'plastic', 'plastic bottle', 'unknow']
+
