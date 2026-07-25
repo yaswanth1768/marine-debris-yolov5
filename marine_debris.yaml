@@ -3,5 +3,4 @@ val: ../marine_debris/val/images
 test: ../marine_debris/test/images
 
 nc: 5
-names: ['can', 'foam', 'plastic', 'plastic bottle', 'unknow']
-
+names: ["can", "foam", "plastic", "plastic bottle", "unknow"]
